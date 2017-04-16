@@ -45,8 +45,13 @@ public class Prueba {
                 Suma1  suma= new Suma1();
                 suma.operacion();
             }else if(p==2){
+               
+            }else if(p==3){
                 Multiplicacion mul=new Multiplicacion();
                 mul.multiplicar();
+            }else if(p==4){
+               
+                
             }
             
             
