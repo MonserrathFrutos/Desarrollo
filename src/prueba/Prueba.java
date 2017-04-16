@@ -52,6 +52,10 @@ public class Prueba {
             }else if(p==4){
                
                 
+            }else if(p==5){
+               raizCuadrad rc=new raizCuadrad();
+               rc.rc();
+                
             }
             
             
