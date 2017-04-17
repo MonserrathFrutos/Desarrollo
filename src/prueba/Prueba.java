@@ -45,7 +45,8 @@ public class Prueba {
                 Suma1  suma= new Suma1();
                 suma.operacion();
             }else if(p==2){
-               
+               Resta resta= new Resta();
+               resta.Resta();
             }else if(p==3){
                 Multiplicacion mul=new Multiplicacion();
                 mul.multiplicar();
@@ -53,8 +54,8 @@ public class Prueba {
                
                 
             }else if(p==5){
-               raizCuadrad rc=new raizCuadrad();
-               rc.rc();
+              // raizCuadrad rc=new raizCuadrad();
+             //  rc.rc();
                 
             }
             
