@@ -51,7 +51,8 @@ public class Prueba {
                 Multiplicacion mul=new Multiplicacion();
                 mul.multiplicar();
             }else if(p==4){
-               
+               Division div = new Division();
+               div.div();
                 
             }else if(p==5){
               raiz rcd=new raiz();
